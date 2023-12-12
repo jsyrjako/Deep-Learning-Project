@@ -11,7 +11,7 @@ dependencies:
   - jupyterlab
   - pytorch=2.1.1
   - pytorch-cuda
-  - torchvision
+  - torchvision=0.16.1
   - opencv
   - pillow
   - scikit-learn
