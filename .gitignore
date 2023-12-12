@@ -1,0 +1,9 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Mac OS X file system metadata
+.DS_Store
+
+# Ignore data folder
+./data/
+
