@@ -5,5 +5,5 @@
 .DS_Store
 
 # Ignore data folder
-./data/
+/data/
 
