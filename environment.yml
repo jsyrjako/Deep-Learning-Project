@@ -3,12 +3,12 @@ channels:
   - conda-forge
   - pytorch
 dependencies:
-  - python
+  - python=3.9.18
   - pip
   - matplotlib
   - numpy
   - jupyterlab
-  - pytorch
+  - pytorch=2.1.1
   - torchvision
   - opencv
   - pillow

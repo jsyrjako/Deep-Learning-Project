@@ -4,12 +4,12 @@ channels:
   - pytorch
   - nvidia
 dependencies:
-  - python
+  - python=3.9.18
   - pip
   - matplotlib
   - numpy
   - jupyterlab
-  - pytorch
+  - pytorch=2.1.1
   - pytorch-cuda
   - torchvision
   - opencv
