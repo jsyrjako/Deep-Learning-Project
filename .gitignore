@@ -7,3 +7,6 @@
 # Ignore data folder
 /data/
 
+# Ignore model folder
+/model/
+
