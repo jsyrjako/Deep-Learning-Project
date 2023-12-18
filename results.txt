@@ -1,0 +1,24 @@
+resnet34 0 Time: 18/12/2023, 14:15:53 Epochs: 30 | Results: 0.586667
+resnet34 1 Time: 18/12/2023, 14:17:51 Epochs: 30 | Results: 0.573333
+resnet34 2 Time: 18/12/2023, 14:19:48 Epochs: 30 | Results: 0.533333
+resnet34 3 Time: 18/12/2023, 14:21:45 Epochs: 30 | Results: 0.626667
+resnet34 4 Time: 18/12/2023, 14:23:43 Epochs: 30 | Results: 0.453333
+resnet34 5 Time: 18/12/2023, 14:25:41 Epochs: 30 | Results: 0.613333
+resnet34 6 Time: 18/12/2023, 14:27:39 Epochs: 30 | Results: 0.560000
+resnet34 7 Time: 18/12/2023, 14:29:39 Epochs: 30 | Results: 0.706667
+resnet34 8 Time: 18/12/2023, 14:31:37 Epochs: 30 | Results: 0.560000
+resnet34 9 Time: 18/12/2023, 14:33:36 Epochs: 30 | Results: 0.466667
+resnet34 10 Time: 18/12/2023, 14:35:38 Epochs: 30 | Results: 0.760000
+
+resnet18 0 Time: 18/12/2023, 16:33:24 Epochs: 30 | Results: 0.653333
+resnet18 1 Time: 18/12/2023, 16:35:17 Epochs: 30 | Results: 0.560000
+resnet18 2 Time: 18/12/2023, 16:37:11 Epochs: 30 | Results: 0.746667
+resnet18 3 Time: 18/12/2023, 16:39:02 Epochs: 30 | Results: 0.493333
+resnet18 4 Time: 18/12/2023, 16:40:56 Epochs: 30 | Results: 0.440000
+resnet18 5 Time: 18/12/2023, 16:42:53 Epochs: 30 | Results: 0.546667
+resnet18 6 Time: 18/12/2023, 16:44:55 Epochs: 30 | Results: 0.440000
+resnet18 7 Time: 18/12/2023, 16:46:47 Epochs: 30 | Results: 0.520000
+resnet18 8 Time: 18/12/2023, 16:48:39 Epochs: 30 | Results: 0.586667
+resnet18 9 Time: 18/12/2023, 16:50:32 Epochs: 30 | Results: 0.626667
+resnet18 10 Time: 18/12/2023, 16:52:26 Epochs: 30 | Results: 0.560000
+
