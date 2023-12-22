@@ -4,3 +4,4 @@ resnet18 2 Time: 22/12/2023, 08:25:27 Epochs: 30 | Results: 0.653333
 resnet18 3 Time: 22/12/2023, 08:29:02 Epochs: 30 | Results: 0.560000
 resnet18 4 Time: 22/12/2023, 08:32:37 Epochs: 30 | Results: 0.640000
 resnet18 Average results: 0.640000
+
