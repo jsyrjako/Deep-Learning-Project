@@ -1,5 +1,7 @@
 # Deep-Learning-Project
 
+Link for git repo: https://github.com/jsyrjako/Deep-Learning-Project
+
 Deep Learning - Final Project
 
 | Name             | Student ID | Email                      |
@@ -52,6 +54,8 @@ The datasets used in this project are the following:
 ## Models
 
 The models used in this project are the following:
+
+Models for ResNet34, ResNet50 can be found on git repo. VGG11 model was too large for git.
 
 - [ResNet18](https://pytorch.org/vision/main/models/generated/torchvision.models.resnet18.html)
 - [ResNet34](https://pytorch.org/vision/main/models/generated/torchvision.models.resnet34.html)
